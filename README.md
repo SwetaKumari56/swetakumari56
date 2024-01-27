@@ -5,7 +5,6 @@
 
 
   
-<img align="center" alt="coding" width="400" src="https://images.search.yahoo.com/search/images;_ylt=Awr9zgg4vrRlO40h0c.JzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDY3pNTGphUGdTcVN4Uy5TVXBGVnBJQQRuX3JzbHQDMARuX3N1Z2cDMQRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzIyBHF1ZXJ5A2FuaW1hdGVkJTIwZGV2ZWxvcGVyJTIwZ2lmBHRfc3RtcAMxNzA2MzQ0MDAy?p=animated+developer+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211US885G0#id=0&iurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&action=click"
 
 
 An enthusiastic frontend developer hailing from the vibrant tech landscape of patna dedicated to orchestrating seamless software delivery and streamlining development pipelines. 
