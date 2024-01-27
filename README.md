@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sweta kumari</h1>
 <h3 align="center">A passionate frontend developer From India 🚀
+
+
+
+
+  
 <img align="center" alt="coding" width="400" src="https://images.search.yahoo.com/search/images;_ylt=Awr91UpjjLRlUm0DWXFXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animated+coding+gif&fr2=piv-web&type=E211US885G0&fr=mcafee#id=3&iurl=https%3A%2F%2Fgranroyalleigarape.com.br%2Fwp-content%2Fuploads%2F2021%2F05%2Fprogrammer.gif&action=click"
 
 
